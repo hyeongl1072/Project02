@@ -2,3 +2,4 @@
 "전현준"
 "20221072"
 "Project 02 completed"
+"final Project 02 completed"
